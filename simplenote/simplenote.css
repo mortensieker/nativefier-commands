@@ -1,0 +1,9 @@
+.wrapper {
+    bottom: 0px !important;
+}
+.footer {
+    display: none;
+}
+.note #static_content {
+    font-size: 16px !important;
+}
